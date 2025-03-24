@@ -35,10 +35,17 @@ O projeto se estrutura em diversas etapas:
 
 ## Objetivos do Projeto
 
-- Garantir a integridade referencial dos dados.
-- Simular operações reais de uma academia.
-- Explorar todos os principais tipos de consultas SQL.
-- Demonstrar o uso de procedimentos armazenados com parâmetros.
+- Desenvolver um modelo preditivo para analisar e prever a qualidade do sono.
+- Identificar padrões que influenciam a qualidade do sono.
+- Fornecer recomendações práticas para melhorar a saúde e a qualidade de vida dos indivíduos.
+
+## Requisitos
+
+Para instalar as dependências necessárias para executar o projeto, utilize o arquivo `requirements.txt`. Você pode instalar todas as dependências com o seguinte comando:
+
+```sh
+pip install -r requirements.txt
+```
 
 ## Colaboradores
 
