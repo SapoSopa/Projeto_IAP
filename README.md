@@ -44,7 +44,7 @@ O projeto se estrutura em diversas etapas:
 Para instalar as dependências necessárias para executar o projeto, utilize o arquivo `requirements.txt`. Você pode instalar todas as dependências com o seguinte comando:
 
 ```sh
-pip install -r requirements.txt
+pip install -r "Dormindo como uma Pedra/requirements.txt"
 ```
 
 ## Colaboradores
